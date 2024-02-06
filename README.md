@@ -1,11 +1,11 @@
-# Sistema AquaMonitor
+# Sistema Quantum
 
 ## Introducción
 
-El proyecto AquaMonitor surge como respuesta a la creciente necesidad de implementar soluciones tecnológicas innovadoras para el control y monitoreo eficiente de sistemas de nivel de agua. Con un enfoque integral, AquaMonitor integra hardware y software de vanguardia, incluyendo el PLC LOGO! de Siemens, un servidor local y el servicio en la nube Quantum. Este conjunto de tecnologías colabora para ofrecer un sistema robusto y adaptable que garantiza una gestión eficaz de los recursos hídricos.
+El proyecto Quantum surge como respuesta a la creciente necesidad de implementar soluciones tecnológicas innovadoras para el control y monitoreo eficiente de sistemas de nivel de agua. Con un enfoque integral, Quantum integra hardware y software de vanguardia, incluyendo el PLC LOGO! de Siemens, un servidor local y el servicio en la nube Quantum. Este conjunto de tecnologías colabora para ofrecer un sistema robusto y adaptable que garantiza una gestión eficaz de los recursos hídricos.
 
 ### Objetivo del Proyecto:
-El principal objetivo de AquaMonitor es proporcionar a los usuarios una herramienta avanzada para la supervisión en tiempo real, control y análisis predictivo de niveles de agua en entornos como cisternas, depósitos o sistemas hidráulicos complejos. Al aprovechar la inteligencia artificial, este proyecto no solo responde a las necesidades actuales, sino que también anticipa eventos futuros, permitiendo una toma de decisiones proactiva.
+El principal objetivo de Quantum es proporcionar a los usuarios una herramienta avanzada para la supervisión en tiempo real, control y análisis predictivo de niveles de agua en entornos como cisternas, depósitos o sistemas hidráulicos complejos. Al aprovechar la inteligencia artificial, este proyecto no solo responde a las necesidades actuales, sino que también anticipa eventos futuros, permitiendo una toma de decisiones proactiva.
 
 ### Componentes Clave del Proyecto:
 
@@ -19,7 +19,7 @@ Proporciona una interfaz de usuario intuitiva para configuraciones manuales y co
 El servicio en la nube Quantum desempeña un papel crucial, permitiendo la creación de dashboards personalizados, la programación de alertas y el análisis predictivo con inteligencia artificial.
 ### Beneficios del Proyecto:
 
-**Eficiencia Operativa**: AquaMonitor mejora la eficiencia operativa al proporcionar una visión completa de los niveles de agua, presión y estado del sistema en tiempo real.
+**Eficiencia Operativa**: Quantum mejora la eficiencia operativa al proporcionar una visión completa de los niveles de agua, presión y estado del sistema en tiempo real.
 
 **Seguridad y Redundancia**: La inclusión de características como la boya de seguridad y las redundancias en las comunicaciones garantiza un funcionamiento seguro y fiable.
 
